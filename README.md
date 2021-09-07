@@ -3,6 +3,8 @@
 <!--
 **bijoyvbabu123/bijoyvbabu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Django](https://img.shields.io/static/v1?label=&message=Django&color=195e41&logo=django&labelColor=195e41&style=for-the-badge)    this is the logo for django
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
